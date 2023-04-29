@@ -1,0 +1,11 @@
+.btn-banner{
+  color: #ffffff;
+  border: 1px solid #999999;
+  padding: 18px 35px;
+  border-radius: 58px;
+  font-weight:bold;
+  margin: 10px;
+  background-color:rgba(118, 218, 100, 0.58);
+  margin: 40px;
+  display:inline-block
+}
